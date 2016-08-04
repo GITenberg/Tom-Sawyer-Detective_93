@@ -1,0 +1,42 @@
+_repo: Tom-Sawyer-Detective_93
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "Tom Sawyer, Detective is an 1896 novel by Mark Twain. It is a sequel\
+  \ to The Adventures of Tom Sawyer (1876) and Adventures of Huckleberry Finn (1884),\
+  \ and a prequel to Tom Sawyer Abroad (1894). Tom Sawyer attempts to solve a mysterious\
+  \ murder in this burlesque of the immensely popular detective novels of the time.\
+  \ Like Adventures of Huckleberry Finn, the story is told using the first-person\
+  \ narrative voice of Huck Finn.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '93'
+  wikidata: Q4460113
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sawyer, Tom (Fictitious character) -- Fiction'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: Tom Sawyer, Detective
+url: http://www.gutenberg.org/ebooks/93
+wikipedia:
+- https://ms.wikipedia.org/wiki/Tom_Sawyer,_Mata-Mata_Gelap
+- https://ru.wikiquote.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A1%D0%BE%D0%B9%D0%B5%D1%80_%E2%80%94_%D1%81%D1%8B%D1%89%D0%B8%D0%BA
+- https://hu.wikipedia.org/wiki/Tom_Sawyer,_a_detekt%C3%ADv
+- https://en.wikipedia.org/wiki/Tom_Sawyer,_Detective
+- https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A1%D0%BE%D0%B9%D1%94%D1%80_%E2%80%94_%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC_%D0%A1%D0%BE%D0%B9%D0%B5%D1%80_%E2%80%94_%D1%81%D1%8B%D1%89%D0%B8%D0%BA
