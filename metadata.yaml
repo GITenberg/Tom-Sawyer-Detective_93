@@ -1,5 +1,8 @@
 _repo: Tom-Sawyer-Detective_93
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -17,6 +20,8 @@ description: "Tom Sawyer, Detective is an 1896 novel by Mark Twain. It is a sequ
   \ murder in this burlesque of the immensely popular detective novels of the time.\
   \ Like Adventures of Huckleberry Finn, the story is told using the first-person\
   \ narrative voice of Huck Finn.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/93#Tom-Sawyer-Detective
 gutenberg_issued: '2004-09-14'
 gutenberg_type: Text
 identifiers:
